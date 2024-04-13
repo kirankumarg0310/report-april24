@@ -1,0 +1,11 @@
+name: Kirankumar
+age: 30
+city: India
+is_student: false
+grade:
+  - subject: Math
+    grade: A
+  - subject: English
+    grade: A
+  - subject: Science
+    grade: A
