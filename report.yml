@@ -4,10 +4,14 @@ city: India
 is_student: false
 grade:
   - subject: Math
-    grade: H
+    grade: I
   - subject: English
-    grade: H
+    grade: I
   - subject: Science
+<<<<<<< HEAD
     grade: H
   - subject: Computer science
     grade: H
+=======
+    grade: I
+>>>>>>> c3309b065dcead8b10382cfa7a645d29f6867863
