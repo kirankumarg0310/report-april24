@@ -4,8 +4,8 @@ city: India
 is_student: false
 grade:
   - subject: Math
-    grade: G
+    grade: H
   - subject: English
-    grade: G
+    grade: H
   - subject: Science
-    grade: G
+    grade: H
